@@ -1,0 +1,33 @@
+/*!
+ * -------------------------------------
+ * Theme Name: UI Library
+ * Theme URI: https://github.com/yuchiko/ui-lib
+ * Author: Yuriy Byts
+ * Author URI: https://github.com/yuchiko/
+ * Version: 1.0
+ * -------------------------------------
+ */
+
+
+// Base Style
+@import "core/_mixin";		// миксины
+//@import "core/_fonts";		// шрифты
+@import "core/_variables";	// переменные
+@import "core/_extend";		// расширения
+@import "core/_function";	// функции
+@import "core/_reset";
+
+
+//	Style
+@import "_some";			  // стили основные-всякие
+
+@import "base/_base"
+
+
+
+//@import "_adaptive";			// стили адаптивки
+
+
+
+
+
