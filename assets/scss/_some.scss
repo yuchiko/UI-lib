@@ -11,3 +11,22 @@ body {
     font-weight: 400;
 	color: $primary_color;
 }
+
+.container {
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+
+header, footer {
+	height: 1rem;
+	background: black;
+}
+
+.header {
+	margin-bottom: 4rem;
+}
+
+.footer {
+	margin-top: 4rem;
+}
